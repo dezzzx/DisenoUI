@@ -9,253 +9,218 @@
         android:id="@+id/editTextText3"
         android:layout_width="213dp"
         android:layout_height="50dp"
-        android:layout_marginStart="168dp"
-        android:layout_marginTop="217dp"
-        android:layout_marginEnd="350dp"
-        android:layout_marginBottom="144dp"
         android:background="@color/morado"
         android:ems="10"
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.324"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.598" />
 
     <EditText
         android:id="@+id/editTextText2"
         android:layout_width="213dp"
         android:layout_height="50dp"
-        android:layout_marginStart="168dp"
-        android:layout_marginTop="150dp"
-        android:layout_marginEnd="350dp"
-        android:layout_marginBottom="211dp"
         android:background="@color/morado"
         android:ems="10"
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.324"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.415" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="169dp"
         android:layout_height="38dp"
-        android:layout_marginStart="12dp"
-        android:layout_marginTop="9dp"
-        android:layout_marginEnd="550dp"
-        android:layout_marginBottom="364dp"
         android:fontFamily="sans-serif"
         android:text="MEETDEVS"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.019"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="125dp"
         android:layout_height="19dp"
-        android:layout_marginStart="12dp"
-        android:layout_marginTop="47dp"
-        android:layout_marginEnd="594dp"
-        android:layout_marginBottom="345dp"
         android:text="Coding with love"
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.019"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.119" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="599dp"
-        android:layout_marginTop="38dp"
-        android:layout_marginEnd="73dp"
-        android:layout_marginBottom="357dp"
         android:text="Dark mode"
         android:textSize="12sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.863"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.093" />
+
 
     <EditText
         android:id="@+id/editTextText"
         android:layout_width="213dp"
         android:layout_height="50dp"
-        android:layout_marginStart="168dp"
-        android:layout_marginTop="77dp"
-        android:layout_marginEnd="350dp"
-        android:layout_marginBottom="284dp"
         android:background="@color/morado"
         android:ems="10"
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.324"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.232" />
 
     <TextView
         android:id="@+id/textView7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
-        android:layout_marginTop="93dp"
-        android:layout_marginEnd="594dp"
-        android:layout_marginBottom="299dp"
         android:text="Name"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.145"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.239" />
 
     <TextView
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="88dp"
-        android:layout_marginTop="165dp"
-        android:layout_marginEnd="581dp"
-        android:layout_marginBottom="227dp"
         android:text="Password"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.133"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.413" />
 
     <TextView
         android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
-        android:layout_marginTop="226dp"
-        android:layout_marginEnd="581dp"
-        android:layout_marginBottom="166dp"
         android:text="Confirm"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.148"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.579" />
 
     <TextView
         android:id="@+id/textView12"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="503dp"
-        android:layout_marginTop="146dp"
-        android:layout_marginEnd="144dp"
-        android:layout_marginBottom="246dp"
         android:text="Upload photo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.74"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.382" />
 
     <TextView
         android:id="@+id/textView13"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="485dp"
-        android:layout_marginTop="181dp"
-        android:layout_marginEnd="110dp"
-        android:layout_marginBottom="211dp"
         android:text="Allow  geolocalization"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.805"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.461" />
 
     <Switch
         android:id="@+id/switch1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="627dp"
-        android:layout_marginTop="180dp"
-        android:layout_marginEnd="58dp"
-        android:layout_marginBottom="204dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.915"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.45" />
 
     <CheckBox
         android:id="@+id/checkBox"
         android:layout_width="257dp"
         android:layout_height="50dp"
-        android:layout_marginStart="228dp"
-        android:layout_marginTop="294dp"
-        android:layout_marginEnd="246dp"
-        android:layout_marginBottom="67dp"
         android:text="I agree with Terms &amp; Conditions"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.814" />
 
     <Button
         android:id="@+id/button"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="88dp"
-        android:layout_marginTop="347dp"
-        android:layout_marginEnd="542dp"
-        android:layout_marginBottom="16dp"
         android:text="Register"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.106"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.947" />
 
     <Button
         android:id="@+id/button2"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="570dp"
-        android:layout_marginTop="347dp"
-        android:layout_marginEnd="73dp"
-        android:layout_marginBottom="16dp"
         android:backgroundTint="#DBAAFD"
         android:text="Reset"
         android:textColor="#000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.856"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.947" />
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="27dp"
         android:layout_height="28dp"
-        android:layout_marginStart="612dp"
-        android:layout_marginTop="9dp"
-        android:layout_marginEnd="92dp"
-        android:layout_marginBottom="374dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.869"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023"
         app:srcCompat="@drawable/luna" />
 
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:layout_marginStart="631dp"
-        android:layout_marginTop="134dp"
-        android:layout_marginEnd="65dp"
-        android:layout_marginBottom="242dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.9"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.356"
         app:srcCompat="@drawable/galeria" />
 
 
